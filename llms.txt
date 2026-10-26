@@ -1,0 +1,12 @@
+# Indriya Temple Jewellery — Student Concept Project
+
+> Independent coursework site by Aryan Mehta, published 26 October 2026. Not affiliated with Indriya; not a store. No products, prices, policies or customer reviews are offered on this site. Images and feedback examples are illustrative.
+
+## Main pages
+
+- [Varalakshmi Vratham Gold Jewellery](https://aryanamehtabba2025-netizen.github.io/sacred-gold-pages/varalakshmi-vratham-gold-jewellery/): Main educational landing page, research notes and FAQs.
+- [Temple Jewellery Guide](https://aryanamehtabba2025-netizen.github.io/sacred-gold-pages/temple-jewellery-guide/): Background, motifs, styling and care.
+- [About the project](https://aryanamehtabba2025-netizen.github.io/sacred-gold-pages/about/): Author, methods, limitations and sources.
+- [Contact](https://aryanamehtabba2025-netizen.github.io/sacred-gold-pages/contact/): Corrections and project enquiries.
+
+For authentic products and current brand policies, visit [the official Indriya website](https://www.indriya.com/). For corrections to the student project, email 7aryanmehta@gmail.com.
